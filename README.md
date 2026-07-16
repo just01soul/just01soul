@@ -18,10 +18,9 @@
 </div>
 
 ## Connect with me:
+  [<img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" width="40" height="40"/>&nbsp;](https://t.me/Alexkh97)
 <div id="badges">
-  <a href="https://t.me/Alexkh97" style="text-decoration: none;">
-    <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" width="40" height="40"/>&nbsp;
-  </a>
+ 
   <a href="https://max.ru/u/f9LHodD0cOIeA6p3zmN3NXxLfYEby98zj9HFsHu6kvQ1G2IoN7uUYTJniL4" style="text-decoration: none;">
    <img src="https://maxicons.ru/icons/MAX.svg" alt="Max" width="40" height="40"/>&nbsp;
   </a>
