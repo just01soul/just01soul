@@ -20,9 +20,9 @@
 ## Connect with me:
 <div id="badges">
   <a href="https://t.me/Alexkh97">
-    <img src="https://www.flaticon.com/ru/free-icon/telegram_5968804?related_id=5968804" alt="Telegram" width="40" height="40"/>;
-  </a>
+    <img src="https://www.flaticon.com/ru/free-icon/telegram_5968804?related_id=5968804" alt="Telegram"/>;
+  </a>&nbsp;
   <a href="https://max.ru/u/f9LHodD0cOIeA6p3zmN3NXxLfYEby98zj9HFsHu6kvQ1G2IoN7uUYTJniL4">
-   <img src="https://maxicons.ru/icons/MAX.svg" alt="Max" width="40" height="40"/>;
-  </a>
+   <img src="https://maxicons.ru/icons/MAX.svg" alt="Max"/>;
+  </a>&nbsp;
 </div>
