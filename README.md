@@ -1,6 +1,6 @@
 ## Hi there, I'm Alexandr KHristoforov 👋
 
-### I'm a junior frontend developer!
+### I'm a Frontend developer (Vue / TypeScript)!
 
 ## Languages and Tools:
 <div>
